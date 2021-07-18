@@ -126,6 +126,7 @@ client.on("message", async (message) => {
 			vc_connection.play(broadcast);
 			break;
 		case "daily":
+			const _moment = moment().locale("fa");
 			const embedMsg = new Discord.MessageEmbed()
 				.setColor(0x0099ff)
 				.setTitle(dailySong.title)
