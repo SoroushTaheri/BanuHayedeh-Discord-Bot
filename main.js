@@ -37,7 +37,7 @@ client.once("ready", () => {
 
 	console.log("Setting up daily suggestion service ...");
 	cron.schedule(
-		"30 * * * *",
+		"0 9 * * *",
 		() => {
 			dailySong = songs[Math.floor(Math.random() * songs.length)];
 			const _moment = moment().locale("fa");
