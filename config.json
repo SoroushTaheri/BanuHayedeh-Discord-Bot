@@ -1,0 +1,72 @@
+{
+	"token": "ODY2MjYyMDE2NTc3ODk2NTA5.YPP_Xw.Aa9IjCrVU__2Hb1bV3ah0v1CvNk",
+	"prefix": "!banu",
+	"server_id": "767509671376191489",
+	"announcement_channel_id": "866345790883627028",
+	"commands_channel_id": "767509671376191493",
+	"messages": {
+		"dorud": ["سلام و درود به تو عزیز", "سلام و درود به تو", "سلام به تو عزیز", "سلام عزیز"],
+		"bedrud": [
+			"بدرود",
+			"بدرود بزرگوار",
+			"بدرود عزیز!",
+			"خدانگهدار عزیز",
+			"خدانگهدار بزرگوار",
+			"خداهمراهت عزیز"
+		],
+		"dailyTrack": [
+			"سلام به همه شما عزیزانم! در این روز زیبا قطعه _ رو به شما پیشنهاد می‌کنم. امیدوارم روز خوبی پیش رو داشته باشید",
+			"سلام به تو عزیز. پیشنهاد امروز من به شما قطعه _ هست. امیدوارم روز خوبی برای همه شما عزیزان باشه.",
+			"سلام و درود به همه زیبارویان این سرور. پیشنهاد می‌کنم امروز سری به قطعه _ بزنید. روز بر همه شما خوش!",
+			"سلام و درود به شما عزیزانم! امروز قطعه _ رو به شما پیشنهاد می‌کنم و امیدوارم حال امروزتون رو خوب کنه. خندان و شاداب باشید."
+		]
+	},
+	"songTitles": [
+		"Saghi",
+		"Shabe Eshgh",
+		"Nagoo Nemiyam",
+		"Soghati",
+		"Zamooneh",
+		"Ey Khoda",
+		"Zendegi Salam",
+		"Bebakhsh",
+		"Geryeh",
+		"Atigheh",
+		"Harfe Tazeh",
+		"Gole Sang",
+		"Sarab",
+		"Asheghtarin",
+		"Golvajeh",
+		"Ravi",
+		"Khooneh Be Khooneh"
+	],
+	"thumbnails": [
+		"https://i.imgur.com/NmTz6jk.jpg",
+		"https://i.imgur.com/F7mYXXC.jpg",
+		"https://i.imgur.com/5VZlQZp.jpg",
+		"https://i.imgur.com/NZwVoQQ.jpg",
+		"https://i.imgur.com/Sih5X9z.jpg",
+		"https://i.imgur.com/Gl8Zo30.jpg",
+		"https://i.imgur.com/fLAPUSw.jpg",
+		"https://i.imgur.com/wnoVK5l.jpg",
+		"https://i.imgur.com/YiTCo3w.jpg",
+		"https://i.imgur.com/q7Qwytg.jpg",
+		"https://i.imgur.com/DYetFNa.jpg",
+		"https://i.imgur.com/YfdjFZN.jpg",
+		"https://i.imgur.com/yjD1b83.jpg"
+	],
+	"jalaliMonths": [
+		"فروردین",
+		"اردیبهشت",
+		"خرداد",
+		"تیر",
+		"مرداد",
+		"شهریور",
+		"مهر",
+		"آبان",
+		"آذر",
+		"دی",
+		"بهمن",
+		"اسفند"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"name": "banu-hayedeh-discord-bot",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Soroush Taheri",
+	"license": "MIT",
+	"dependencies": {
+		"@discordjs/opus": "^0.5.3",
+		"discord-ytdl-core": "^5.0.4",
+		"discord.js": "^12.5.3",
+		"ffmpeg-static": "^4.4.0",
+		"jalali-moment": "^3.3.10",
+		"node-cron": "^3.0.0",
+		"youtube-sr": "^4.1.7",
+		"ytdl-core": "^4.8.3"
+	}
+}
