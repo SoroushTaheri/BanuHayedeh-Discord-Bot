@@ -1,9 +1,9 @@
 {
-	"token": "ODY2MjYyMDE2NTc3ODk2NTA5.YPP_Xw.Aa9IjCrVU__2Hb1bV3ah0v1CvNk",
+	"token": "",
 	"prefix": "!banu",
-	"server_id": "767509671376191489",
-	"announcement_channel_id": "866345790883627028",
-	"commands_channel_id": "767509671376191493",
+	"server_id": "",
+	"announcement_channel_id": "",
+	"commands_channel_id": "",
 	"messages": {
 		"dorud": ["سلام و درود به تو عزیز", "سلام و درود به تو", "سلام به تو عزیز", "سلام عزیز"],
 		"bedrud": [
